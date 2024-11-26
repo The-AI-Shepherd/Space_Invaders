@@ -19,8 +19,9 @@ Features:
 Classic Gameplay: Inspired by the iconic Space Invaders.
 Smooth Controls: Navigate and shoot with ease using keyboard inputs.
 Cheat Mode: Take advantage of a one-shot alien destroyer for fun!
-Requirements:
 
+Requirements:
 Python 3.x
 Turtle graphics library (pre-installed with Python)
+
 Enjoy the game !
